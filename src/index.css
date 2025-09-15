@@ -1,0 +1,22 @@
+@import 'bulma/css/bulma.min.css';
+
+body {
+  margin: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.weekly-calendar {
+  margin-top: 2rem;
+}
+
+.clickable-miles {
+  cursor: pointer;
+  color: #3273dc;
+  text-decoration: underline;
+}
+
+.clickable-miles:hover {
+  color: #2366d1;
+}
